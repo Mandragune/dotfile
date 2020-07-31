@@ -1,1 +1,0 @@
-type=toolbar | type=utility | type=dialog | type=normal

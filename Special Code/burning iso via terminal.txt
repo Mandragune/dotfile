@@ -1,4 +1,0 @@
-sudo dd bs=4M if=NAMAISOFILE of=JALURDEVICE
-
-contoh
-sudo dd=4M if=debian.iso of=/dev/sdb

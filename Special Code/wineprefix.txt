@@ -1,1 +1,0 @@
-WINEPREFIX="$HOME/prefix32" WINEARCH=win32 wine wineboot
