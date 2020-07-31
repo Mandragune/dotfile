@@ -1,0 +1,3 @@
+LOKASI LOGO MINT 19.2  /usr/share/plymouth/themes/mint-logo
+
+COMMAND SETELAH REPLACE .PNG   sudo update-initramfs -u

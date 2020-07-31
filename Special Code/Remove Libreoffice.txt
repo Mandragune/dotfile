@@ -1,0 +1,5 @@
+remove Libreoffice from linux mint
+
+1. sudo apt-get remove libreoffice-core
+2. sudo apt-get remove libreoffice-common
+3. sudo apt-get remove --purge libreoffice-core

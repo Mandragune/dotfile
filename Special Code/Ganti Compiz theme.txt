@@ -1,0 +1,13 @@
+/usr/bin/gtk-window-decorator --metacity-theme NAMATHEMA --replace
+
+contoh 
+/usr/bin/gtk-window-decorator --metacity-theme Mojave-light --replace
+
+ganti posisi button kanan
+gsettings set org.gnome.desktop.wm.preferences button-layout 'menu:minimize,maximize,close'
+
+ganti posisi button kiri
+gsettings set org.gnome.desktop.wm.preferences button-layout 'minimize,maximize,close:menu'
+
+penting
+tanda titik dua (:) adalah title window

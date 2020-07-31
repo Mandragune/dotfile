@@ -1,0 +1,3 @@
+Debian =	1. sudo apt install flatpak
+		2. sudo apt install gnome-software-plugin-flatpak
+		3.flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo

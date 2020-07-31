@@ -1,0 +1,1 @@
+mint tina 19.2 =kernel 4.15.0-54-generic (superseded)

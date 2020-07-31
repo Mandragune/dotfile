@@ -1,0 +1,39 @@
+deb http://mirror.0x.sg/linuxmint tina main upstream import backport 
+deb http://mirror.rise.ph/linuxmint tina main upstream import backport
+deb http://mirror.poliwangi.ac.id/linuxmint tina main upstream import backport
+#deb http://kartolo.sby.datautama.net.id/linuxmint tina main upstream import backport
+
+#deb http://kartolo.sby.datautama.net.id/ubuntu/ bionic main restricted universe multiverse
+#deb http://kartolo.sby.datautama.net.id/ubuntu/ bionic-updates main restricted universe multiverse
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ bionic-updates main restricted universe multiverse
+
+deb http://kebo.pens.ac.id/ubuntu/ bionic main restricted universe multiverse
+deb http://kebo.pens.ac.id/ubuntu/ bionic-updates main restricted universe multiverse
+deb http://kebo.pens.ac.id/ubuntu/ bionic-backports main restricted universe multiverse
+
+deb http://mirror.biznetgio.com/ubuntu bionic main restricted universe multiverse
+deb http://mirror.biznetgio.com/ubuntu bionic-updates main restricted universe multiverse
+deb http://mirror.biznetgio.com/ubuntu bionic-backports main restricted universe multiverse
+
+deb http://mirror.poliwangi.ac.id/ubuntu bionic main restricted universe multiverse
+deb http://mirror.poliwangi.ac.id/ubuntu bionic-updates main restricted universe multiverse
+
+deb http://mirror.rise.ph/ubuntu bionic main restricted universe multiverse
+deb http://mirror.rise.ph/ubuntu bionic-updates main restricted universe multiverse
+
+deb http://mirror.0x.sg/ubuntu bionic main restricted universe multiverse
+deb http://mirror.0x.sg/ubuntu bionic-updates main restricted universe multiverse
+
+deb http://mirror.unej.ac.id/ubuntu/ bionic main restricted universe multiverse
+deb http://mirror.unej.ac.id/ubuntu/ bionic-updates main restricted universe multiverse
+
+deb http://repo.unpatti.ac.id/ubuntu bionic main restricted universe multiverse
+deb http://repo.unpatti.ac.id/ubuntu bionic-updates main restricted universe multiverse
+
+deb http://buaya.klas.or.id/ubuntu bionic main restricted universe multiverse
+deb http://buaya.klas.or.id/ubuntu bionic-updates main restricted universe multiverse
+
+deb http://security.ubuntu.com/ubuntu/ bionic-security main restricted universe multiverse
+deb http://archive.canonical.com/ubuntu/ bionic partner
